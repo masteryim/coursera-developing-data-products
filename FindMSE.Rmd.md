@@ -31,7 +31,7 @@ Minimum mean square error of child height
 ========================================================
 - The population mean(mu) minimizes the sum of the squared deviations.
 
-![plot of chunk unnamed-chunk-2](FindMSE.Rmd-figure/unnamed-chunk-2-1.png)
+![plot of chunk unnamed-chunk-2](unnamed-chunk-2-1.png)
 
 Thanks
 ========================================================
